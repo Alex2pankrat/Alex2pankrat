@@ -1,7 +1,7 @@
 ## Панкратов Алексей
 markdown
 ### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=Alex2pankrat)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alex2pankrat&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **Alex2pankrat/Alex2pankrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

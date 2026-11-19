@@ -7,7 +7,7 @@
 
   <p align="center">
     <a href="#">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Alex2pankrat&show_icons=true&theme=radical&hide=contribs&show=discussions_answered&rank_icon=github" />
+      <img height="200" align="center" src="./profile/stats.svg" />
     </a>
   </p>
 </div>
